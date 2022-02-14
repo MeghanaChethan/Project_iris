@@ -1,0 +1,38 @@
+
+
+{
+    "failed"            : "Failed",
+    "alreadyTaken"     : "Already Taken",
+     
+
+    "reachPortalAdmin"  :   "Please contact, Portal Admin immediately, to rectify this issue --FromJSON--",
+    "updatesuccess":"updatesuccess",
+    
+    "insertFailed"      :   "New Record Creation Failed --FromJSON--",
+    "insertSuccess"     :   "New Record Creation Success --FromJSON--",
+    "updateSuccess"         :"",
+    "updateFailed"          :"",
+
+    "codeAvailable" : "Code is Available",
+    "codeNotAvailable" : "Code is Not Available",
+    "msg":"success",
+
+    "countryCreateFailed"   : "Country Creation Failed --FromJSON--",
+    "countryUpdateFailed"   :"Country Updation Failed",
+
+    
+    "countryViewSuccess"  : "Country View",
+    "countriesViewFail"     : "Country details fetching failed",
+
+    "logCreationFailed":"SQL Log File Creation Failed",
+    "logCreationSuccess":"SQL Log File Creation Success",
+    
+   
+    "qc CreateFailed":"qc failed",
+
+    "projectName": "BFWIRIS"
+}
+
+
+
+
